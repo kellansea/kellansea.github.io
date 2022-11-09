@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kellansea.github.io</id>
+    <title>Fishman</title>
+    <updated>2022-11-09T20:36:23.386Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kellansea.github.io"/>
+    <link rel="self" href="https://kellansea.github.io/atom.xml"/>
+    <subtitle>谈天说地</subtitle>
+    <logo>https://kellansea.github.io/images/avatar.png</logo>
+    <icon>https://kellansea.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Fishman</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://kellansea.github.io/post/hello-gridea/</id>
+        <link href="https://kellansea.github.io/post/hello-gridea/">
+        </link>
+        <updated>2022-11-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎大家的光临！<br>
+✍️  我主要记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎大家的光临！<br>
+✍️  我主要记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<h2 id="特性">特性👇</h2>
+<p>📝  平时的生活记录</p>
+<p>🌉  有时还会放一些照片</p>
+<p>🏷️  我会把内容进行整理分类，标签</p>
+<p>📋  有时还会有惊人的创意</p>
+<p>💻  我是电脑方面的研究者，可以跟我一起探讨</p>
+<p>🌎  网路是我们离不来的虚拟空间了，我也会跟大家探讨网络问题</p>
+<p>💬  配置很多生活所需</p>
+<p>🇬🇧  我也喜欢学习外语</p>
+<p>🌁  我也可能会不定期更换主题</p>
+<p>🖥  信息同步</p>
+<p>🌱 我还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>大家一起加油！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
